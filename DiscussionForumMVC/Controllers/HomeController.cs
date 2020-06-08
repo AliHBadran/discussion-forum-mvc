@@ -10,7 +10,7 @@ namespace DiscussionForumMVC.Controllers
     {
         public ActionResult Index()
         {
-            // hello
+            // hello ali badran
             return View();
         }
 
